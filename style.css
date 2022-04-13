@@ -70,7 +70,7 @@ body {
     border: .4rem solid #00FFFF;
     height: 80%;
     max-height: 13.2rem;
-    background-color: #00FFFF;
+    background-color: rgba(0, 0, 0, 0.6);
     margin-top: 2rem;
 }
 
