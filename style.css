@@ -69,6 +69,7 @@ body {
     border-radius: 50%;
     border: .4rem solid #00FFFF;
     height: 80%;
+    background-color: #fff;
     max-height: 13.2rem;
     margin-top: 2rem;
 }
